@@ -21,4 +21,4 @@ Currently taking a bachelor's degree in Computer Science at Institut Teknologi S
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## Popular Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nabielvna&repo=nabielvna&theme=dark)](https://github.com/gayubrw/gayubrw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gayubrw&repo=gayubrw&theme=dark)](https://github.com/gayubrw/gayubrw)
