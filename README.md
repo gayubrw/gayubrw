@@ -6,21 +6,8 @@
 
 <!-- Bio -->
 <h4 align="left">
-  I'm a <code>passionate Web Developer 🌐</code> and <code>Machine Learning enthusiast 🤖</code> </br></br> Currently pursuing a Bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember (ITS) Surabaya 🎓
+  I'm a <code>passionate Web Developer 🌐</code> </br></br> Currently pursuing a Bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember (ITS) Surabaya 🎓
 </h4>
-
-<!-- Languages & Frameworks -->
-</br>
-<h2>🔧 Languages & Frameworks</h2>
-<h4>MAIN</h4>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,tailwind,react,nextjs,vue,laravel,nodejs,bun,express,sequelize,prisma,mysql,postgres)
-
-<H4>SIDE</H4>
-
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs)
-
-</br>
 
 <!-- Contributions -->
 <h2>🤝 Contributions</h2>
@@ -54,7 +41,7 @@
   <a href="https://github.com/gayubrw">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/nblvna_">
+  <a href="https://twitter.com/gayubrw">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/gayubrw_/">
