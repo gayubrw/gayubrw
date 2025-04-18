@@ -35,7 +35,7 @@
 <h2>✉️ Contact</h2>
 
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/gayubrw/">
+  <a href="www.linkedin.com/in/gayubaruwa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/gayubrw">
